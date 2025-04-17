@@ -11,7 +11,7 @@ I'm currently learning data tools like Excel, Power BI, Pandas, and SQL. I mostl
   ### 1. Are Women More Left Wing or Conservative?
 - Tools: Power BI, Excel
 - Description: Analyzed U.S. politician twitter data(dataset found in kaggle) to determine if women lean more towards the left wing. Created visualizations to support the findings.
-- File: `politician_dashboard.pbix`
+-  [View Project →](Politicians_project/README.md)
 
   ### 2. Life Expectancy Across Countries
 - Tools: Power BI
