@@ -29,7 +29,7 @@ a dashboard on the sakila dataset , done on power bi
 Some insights we can get from this dashboard are -
 - Total revenue is $37K
 - The store has 326 customers 
-- The rentals are highest during July and August 
+- The rentals are highest during July and August , 
 And many more information
 
 ---
