@@ -1,12 +1,18 @@
 ## Phase 2 dashboard
 
-**Objective:**  
-Practice power bi dashboard making .  
-
-**What I did:**  
-- Made dashboard , that is fully presentable .  
-
-**Skills Shown:**  
-- DAX (seen in making measures)
-- Tooltips (can see ,by hovering over the line chart)
+##Description :
+---
+##Objective:  
+- Practice power bi.  
+---
+##What I did:.  
+---
+##Skills Shown:  
+- DAX 
+- Tooltips
 - Time inteligence functions
+
+---
+##Example of Dax work 
+---
+##Screenshot of dashboard 
