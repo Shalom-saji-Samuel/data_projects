@@ -1,7 +1,7 @@
 ## Advanced Power bi dashboard
 
-## Description :
- So as to Practice some advanced skills and learn more about power bi , I used a database , made by chatgpt , and built a dashboard around that.
+## Description:
+- So as to Practice some advanced skills and learn more about power bi , I used a database , made by chatgpt , and built a dashboard around that.
 ---
 ## Objective:  
 Practice and showcase power bi skills. 
@@ -56,4 +56,8 @@ COUNTROWS(
 ```
 ---
 ## Screenshot of dashboard 
-- In the second screenshot you are able to see the tooltip in action 
+<img width="1498" height="820" alt="image" src="https://github.com/user-attachments/assets/840a60ea-149b-4051-8bff-816a1a774fb8" />
+- the one below shows tooltip in action 
+<img width="1445" height="820" alt="image" src="https://github.com/user-attachments/assets/d53b8e93-b6cf-4384-8da5-a5f31a47f526" />
+- The last one shows the dashboard , when you press the  " Campaign Info " button
+<img width="1495" height="820" alt="image" src="https://github.com/user-attachments/assets/1791e394-0375-4833-b26c-035d01e38e0c" />
