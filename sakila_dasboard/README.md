@@ -1,6 +1,7 @@
 # Sakila dashboard
 
-### Description : a dashboard on the sakila dataset , done on power bi 
+### Description 
+a dashboard on the sakila dataset , done on power bi 
 
 ## Objectives
 
