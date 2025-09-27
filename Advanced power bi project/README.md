@@ -19,6 +19,7 @@ Practice and showcase power bi skills.
 ## Example of Dax work 
 - In total I had to make 9 measures , 2 of them are as follows :
 - Task : Find Net Promoter score
+(Note : The "//" and "--" are used for writing comments in dax)
 ```Dax
 Net Promoter Score = // %Promoters−%Detractors ,promoters = 4-5 detractors =1-2 
 // declaring variables 
