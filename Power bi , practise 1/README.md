@@ -1,18 +1,18 @@
 ## Phase 2 dashboard
 
-##Description :
+## Description :
 ---
-##Objective:  
+## Objective:  
 - Practice power bi.  
 ---
-##What I did:.  
+## What I did:.  
 ---
-##Skills Shown:  
+## Skills Shown:  
 - DAX 
 - Tooltips
 - Time inteligence functions
 
 ---
-##Example of Dax work 
+## Example of Dax work 
 ---
 ##Screenshot of dashboard 
