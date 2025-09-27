@@ -17,3 +17,14 @@ a dashboard on the sakila dataset , done on power bi
 - Git & GitHub
 
 ---
+## Skills shown 
+- Connecting mysql database to power bi 
+- Dashboard making 
+- KPI cards 
+- Slicers 
+- Tooltips to show additional information
+
+---
+## Key insights 
+
+## Screenshot of the dashboard 
