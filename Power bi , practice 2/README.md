@@ -1,7 +1,7 @@
 ### Phase 3 HR dataset dashboard
 
 ## Description:
-- So as to Practice and learn more about power bi , I used a database , made by chatgpt , and built a dashboard around that.
+So as to Practice and learn more about power bi , I used a database , made by chatgpt , and built a dashboard around that.
 ---
 
 ## Objective:  
