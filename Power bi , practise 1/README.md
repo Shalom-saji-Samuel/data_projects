@@ -26,7 +26,7 @@
 Rev per country 
  = CALCULATE(
      COUNT(Finance[Revenue]) ,
-     Customers[Country])
+     Customers[Country])```
 - An example of Time inteligence functions would be :
 - Task : Find revenue from last year
 ```DAX
@@ -34,7 +34,7 @@ Revenue LY =
    CALCULATE(
        [Total Rev],
        SAMEPERIODLASTYEAR(Finance[Date])
-  )
+  )```
 ---
 ## Screenshot of dashboard 
 - In the second screenshot you are able to see the tooltip in action 
