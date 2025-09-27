@@ -20,13 +20,14 @@
 
 ---
 ## Example of Dax work 
-- In total I had to make 8 measures , one of them is as follows :
+- In total I had to make 8 measures , two of them are as follows :
 - Task : Find revenue per country 
 ```Dax
 Rev per country 
  = CALCULATE(
      COUNT(Finance[Revenue]) ,
-     Customers[Country]) ```
+     Customers[Country])
+ ```
 - An example of Time inteligence functions would be :
 - Task : Find revenue from last year
 ```DAX
@@ -34,7 +35,8 @@ Revenue LY =
    CALCULATE(
        [Total Rev],
        SAMEPERIODLASTYEAR(Finance[Date])
-  ) ```
+  )
+```
 ---
 ## Screenshot of dashboard 
 - In the second screenshot you are able to see the tooltip in action 
