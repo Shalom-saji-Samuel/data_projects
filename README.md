@@ -5,7 +5,7 @@ Welcome to my data projects portfolio! This repository contains various projects
 ##  About Me
 I am mastering tools that data analysts and taxonomy specialists use [showcased in this repo](https://github.com/Shalom-saji-Samuel/Data_skills-showcase)
 
-##  Projects
+##  Some of my early Projects
 
   ### 1. Are Women More Left Wing or Conservative?
 - Tools: Power BI, Excel
@@ -27,14 +27,11 @@ I am mastering tools that data analysts and taxonomy specialists use [showcased 
 - Description: A project exploring different dog breeds and their traits(data from kaggle).
 -  [View Project →](dog_breeds_project/README.md)
 
-##  Tools Used
-- Excel
-- Power BI
-- Markdown for documentation
-- GitHub for version control
+**Are just a few examples**
 
+--- 
 ##  Future Goals
-- Take on internship projects
+- Showcase my learning journey in a different repo
 - Explore metadata and taxonomy tools
 
 ---
