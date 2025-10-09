@@ -3,7 +3,7 @@
 Welcome to my data projects portfolio! This repository contains various projects I've worked on as part of my journey to become a Data Taxonomy Specialist and Analyst.
 
 ##  About Me
-I am mastering tools that data analysts and taxonomy specialists use (showcased in this repo - )[https://github.com/Shalom-saji-Samuel/Data_skills-showcase]
+I am mastering tools that data analysts and taxonomy specialists use [showcased in this repo](https://github.com/Shalom-saji-Samuel/Data_skills-showcase)
 
 ##  Projects
 
